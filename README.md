@@ -1,5 +1,5 @@
 <div align="Center">
-<img width="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF00FF&center=true&vCenter=true&width=435&lines=queoisme;Code+Rebel+%F0%9F%92%9C;Creative+Developer" />
+<img width="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=2800&pause=2000&color=FF00FF&center=true&vCenter=true&width=435&lines=thiencodengu;%F0%9F%92%9C;" />
 
 <div align="center">
 
