@@ -1,14 +1,14 @@
 <div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<img width="100" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF00FF&center=true&vCenter=true&width=435&lines=queoisme;Code+Rebel+%F0%9F%92%9C;Creative+Developer" />
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/queoisme">
 <img src="https://raw.githubusercontent.com/queoisme/queoisme/main/assets/e4f55add37b5eb5b41e2bca7b83d7f67.gif" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+<!-- [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW) -->
 
 </div>
 
