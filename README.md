@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://i.pinimg.com/originals/e4/f5/5a/e4f55add37b5eb5b41e2bca7b83d7f67.gif" />
+<img src="https://raw.githubusercontent.com/queoisme/queoisme/main/assets/e4f55add37b5eb5b41e2bca7b83d7f67.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
