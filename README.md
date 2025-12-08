@@ -1,127 +1,75 @@
-<div align="center">
-
-# 🌸 WELCOME TO MY DIGITAL CHAOS 🌸
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF00FF&center=true&vCenter=true&width=940&lines=HEY!+I'M+A+CODE+REBEL+%F0%9F%92%9C;BREAKING+RULES+%26+BUILDING+DREAMS;LET'S+CREATE+SOMETHING+WILD!" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=💀%20CODED%20WITH%20ATTITUDE%20💀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-</div>
-
----
-
-## 🔥 ABOUT THIS CHAOS CREATOR
-
-```typescript
-const developer = {
-    vibe: "Chaotic Good 😈",
-    status: "Caffeinated & Coding ☕",
-    mindset: ["Creative", "Rebellious", "Determined"],
-    motto: "Code hard, break things, fix them cooler 💥",
-    funFact: "I debug with attitude 💜"
-};
-```
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
 <div align="center">
 
-### ⚡ MY TECH ARSENAL ⚡
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GITHUB STATS THAT SLAP 📊
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 CONTRIBUTION SNAKE EATING MY CODE 🎮
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 💜 CURRENTLY VIBING WITH 💜
-
-```ascii
-┌─────────────────────────────────────┐
-│  🎵 Lofi Beats + Energy Drinks     │
-│  🚀 Building Something Insane      │
-│  💻 Late Night Coding Sessions     │
-│  🎨 Making UI/UX Look Stunning     │
-│  🌙 Living That Developer Life     │
-└─────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 FEATURED CHAOS 🌟
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
-
-</div>
-
----
-
-<div align="center">
-
-## 💌 LET'S CONNECT & CREATE CHAOS TOGETHER 💌
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/users/YOUR_DISCORD">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/CtorW">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-<br><br>
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 
-### 💜 If my code made you smile, drop a ⭐ 💜
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+
+💻 Passionately building an **Arch Installer** project.
+
+<div align="Center">
+<h1>Skills</h1>
+</div>
+
+<div align="Center">
+
+| Website                                                         | Programming                                                                     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
+
+<br>
+<br>
+
+| Snake Eating Contributions in the last year                                                  |
+| -------------------------------------------------------------------------------------------- |
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+
+<div align="Center">
+
+| CtorW's Stats                                                                                                                                 | Ultimate Streak                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) |
+
+| Most Lang                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+| ‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎ <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎ <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=CODE+WITH+PASSION+💜+BREAK+WITH+PURPOSE&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
-
-**"In a world of boring code, be the bug that crashes everything... then fixes it beautifully." 💜✨**
-
-</div>
+Credit: [Ctorw](https://github.com/CtorW)
+Last Edited on: 12/04/2005
