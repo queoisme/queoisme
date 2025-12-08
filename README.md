@@ -12,9 +12,11 @@
 
 </div>
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+Ngu + Lười
 
-💻 Passionately building an **Arch Installer** project.
+<!-- 🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**. -->
+
+<!-- 💻 Passionately building an **Arch Installer** project. -->
 
 <div align="Center">
 <h1>Skills</h1>
@@ -46,6 +48,7 @@
 | ----------------------------------------------------------------------------------------------------- |
 | ![snakkeee](https://github.com/queoisme/queoisme/blob/output/github-contribution-grid-snake-dark.svg) |
 
+<!--
 <div align="Center">
 
 | CtorW's Stats                                                                                                                                 | Ultimate Streak                                                                                                |
@@ -67,9 +70,9 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎ <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎ <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
-</div>
+</div> -->
 
 ---
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+Credit: [Ctorw](https://github.com/queoisme)
+Last Edited on: 09/12/2025
