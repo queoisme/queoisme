@@ -18,28 +18,28 @@ Ngu + Lười
 
 <!-- 💻 Passionately building an **Arch Installer** project. -->
 
-<div align="Center">
+<!-- <div align="Center">
 <h1>Skills</h1>
-</div>
-
+</div> -->
+<!--
 <div align="Center">
 
 | Website                                                         | Programming                                                                     |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
-</div>
+</div> -->
 
 <br>
 <br>
 <br>
 
-<div align="Center">
+<!-- <div align="Center">
 <h1>Operating Systems</h1>
 
 <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
-</div>
+</div> -->
 
 <br>
 <br>
@@ -74,5 +74,5 @@ Ngu + Lười
 
 ---
 
-Credit: [Ctorw](https://github.com/queoisme)
+Credit: [thiencodengu](https://github.com/queoisme)
 Last Edited on: 09/12/2025
